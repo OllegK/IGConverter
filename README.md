@@ -1,11 +1,7 @@
-write readme, note about deleting them
-push to git
-create the archive and save it
-
 # IGConverter
 Simple batch converter of JSON files into CSV files.
 
-The Chrome File System could be found:
+The Chrome File System could be found (in case if default profiles are used):
 * Windows
 ```bash
 cd %USERPROFILE%\AppData\Local\Google\Chrome\User Data\Default\File System
