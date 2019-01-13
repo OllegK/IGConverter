@@ -1,0 +1,5 @@
+.env
+/node_modules
+0*
+*.csv
+
